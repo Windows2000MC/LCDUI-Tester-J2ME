@@ -9,6 +9,10 @@ It's tests each element on screen which can be found on javax.microedition.lcdui
 
 The application is developed entirely on Symphony D54+ java phone. Thanks to J2ME SDK Mobile and PaintCAD J2ME, The application is written, compiled, tested entirely on java phone for ensuring the best experience and compatibility on other java enabled phones
 
+Started - 31 October 2026 @ 5:16PM [GMT+6 ; Bangladesh Standard Time]
+
+Phase and Deployment - 64 times
+
 # Features
 
 1. Lists of High level UI, Canvas and Graphics are shown in Menu
