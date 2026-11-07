@@ -35,4 +35,11 @@ J2ME Loader on Oppo A18 [Helio G85] - 33 FPS
 
 # Versions
 
-v1.0 - Currently on Development (on java phone)
+v1.0 - This version includes all the tests that are shown in menu. also has Canvas and Graphics Demos
+
+New Graphics Demo:
+
+1. 3D Cube [No M3G Support]
+
+Application version number - 0.0.89
+
